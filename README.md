@@ -1,4 +1,5 @@
-# Laboratorio-1-Familiarizaci-n-con-ESP32-y-sensores
+# Laboratorio-1: Familiarización con ESP32 y sensores
+## Universidad de la Sabana - Internet de las cosas (2026-1)
 ## Jorge Esteban Diaz Bernal - Carlos Augusto Sanchez Lombana - Laura Camila Rodriguez Leon
 
 ### Objetivo General
