@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-mpu6050", "id": "imu1", "top": 253.42, "left": -45.68, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "imu1:VCC", "esp:3V3", "red", [ "v-9.6", "h-57.52", "v-201.6" ] ],
+    [ "imu1:GND", "esp:CMD", "black", [ "v-19.2", "h-28.72", "v-28.8" ] ],
+    [ "esp:21", "imu1:SDA", "magenta", [ "h14.44", "v144", "h-115.2" ] ],
+    [ "esp:22", "imu1:SCL", "blue", [ "h24.04", "v182.4", "h-115.28" ] ]
+  ],
+  "dependencies": {}
+}
