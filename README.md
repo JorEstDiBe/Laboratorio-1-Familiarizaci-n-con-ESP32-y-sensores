@@ -6,22 +6,22 @@
 Diseñar e implementar un sistema básico tipo osciloscopio y generador de señales utilizando los módulos ADC y DAC del ESP32, integrando elementos de interacción como pulsador y potenciómetro, además de pruebas con periféricos adicionales como MPU6050, relé y almacenamiento en microSD.
 
 ## Evidencias Laboratorio
-- Fotos montaje: `Evidencias/Montaje1.jpeg`, `Evidencias/Montaje2.jpeg` 
-- Conexión Directa: https://www.canva.com/design/DAHDVc5IMgY/TO39-GXY8wMrPxJG7lFbPQ/edit?utm_content=DAHDVc5IMgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton4 `Evidencias/ConexionDirecta.mp4`
-- Lectura Osciloscopio: https://www.canva.com/design/DAHDVVhed6Q/FRj8xuRCJ95WGy5rIeWW6w/edit?utm_content=DAHDVVhed6Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton `Evidencias/Osciloscopio.mp4`
-- Prueba Cruzada entre Grupos: https://www.canva.com/design/DAHDVRjRPgM/ZUqNPUBtnoyIPM2f5mhWow/edit?utm_content=DAHDVRjRPgM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton `Evidencias/PruebaCruzada.mp4`
+- Fotos montaje: [Montaje1.jpeg](Evidencias/Montaje1.jpeg), [Montaje2.jpeg](Evidencias/Montaje2.jpeg)
+- Conexión Directa: [Video](https://www.canva.com/design/DAHDVc5IMgY/TO39-GXY8wMrPxJG7lFbPQ/edit?utm_content=DAHDVc5IMgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton4), [ConexionDirecta.mp4](Evidencias/ConexionDirecta.mp4)
+- Lectura Osciloscopio: [Video](https://www.canva.com/design/DAHDVVhed6Q/FRj8xuRCJ95WGy5rIeWW6w/edit?utm_content=DAHDVVhed6Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Osciloscopio.mp4](Evidencias/Osciloscopio.mp4)
+- Prueba Cruzada entre Grupos: [Video](https://www.canva.com/design/DAHDVRjRPgM/ZUqNPUBtnoyIPM2f5mhWow/edit?utm_content=DAHDVRjRPgM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [PruebaCruzada.mp4](Evidencias/PruebaCruzada.mp4)
 
-### Codigos Implementados
-- Lectura Generador Senales `CodigosImplementados/LecturaGeneradorSenales.ino`
-- Lectura Osciloscopio `CodigosImplementados/LecturaOsciloscopio.ino`
-- Conexion Directa `CodigosImplementados/ConexionDirecta.ino`
-- Prueba Cruzada Grupos `CodigosImplementados/PruebaCruzadaGrupos.ino`
-- Ejemplo Almacenamiento Archivos `CodigosImplementados/EjemploAlmacenamientoArchivos.ino`
+### Códigos Implementados
+- Lectura Generador Señales: [LecturaGeneradorSenales.ino](CodigosImplementados/LecturaGeneradorSenales.ino)
+- Lectura Osciloscopio: [LecturaOsciloscopio.ino](CodigosImplementados/LecturaOsciloscopio.ino)
+- Conexión Directa: [ConexionDirecta.ino](CodigosImplementados/ConexionDirecta.ino)
+- Prueba Cruzada Grupos: [PruebaCruzadaGrupos.ino](CodigosImplementados/PruebaCruzadaGrupos.ino)
+- Ejemplo Almacenamiento Archivos: [EjemploAlmacenamientoArchivos.ino](CodigosImplementados/EjemploAlmacenamientoArchivos.ino)
 
 ### Simulaciones Wokwi
-- Simulación MPU6050: https://wokwi.com/projects/457896092507526145 `Evidencias/Montaje2.jpeg`
-- Simulación Relé: https://wokwi.com/projects/457750225146596353 `Evidencias/Montaje2.jpeg`
-- Simulación Generador de Señales: https://wokwi.com/projects/457748072203684865 `Generador de Señales`
+- Simulación MPU6050: [Proyecto Wokwi](https://wokwi.com/projects/457896092507526145), [Carpeta de simulación](Simulaciones/Simulación%20MPU6050)
+- Simulación Relé: [Proyecto Wokwi](https://wokwi.com/projects/457750225146596353), [Carpeta de simulación](Simulaciones/Simulación%20Relé)
+- Simulación Generador de Señales: [Proyecto Wokwi](https://wokwi.com/projects/457748072203684865), [Carpeta de simulación](Simulaciones/Generador%20de%20Señales)
   
   
   
