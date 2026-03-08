@@ -11,10 +11,17 @@ Diseñar e implementar un sistema básico tipo osciloscopio y generador de seña
 - Lectura Osciloscopio: https://www.canva.com/design/DAHDVVhed6Q/FRj8xuRCJ95WGy5rIeWW6w/edit?utm_content=DAHDVVhed6Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton `Evidencias/Osciloscopio.mp4`
 - Prueba Cruzada entre Grupos: https://www.canva.com/design/DAHDVRjRPgM/ZUqNPUBtnoyIPM2f5mhWow/edit?utm_content=DAHDVRjRPgM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton `Evidencias/PruebaCruzada.mp4`
 
+### Codigos Implementados
+- Lectura Generador Senales `CodigosImplementados/LecturaGeneradorSenales.ino`
+- Lectura Osciloscopio `CodigosImplementados/LecturaOsciloscopio.ino`
+- Conexion Directa `CodigosImplementados/ConexionDirecta.ino`
+- Prueba Cruzada Grupos `CodigosImplementados/PruebaCruzadaGrupos.ino`
+- Ejemplo Almacenamiento Archivos `CodigosImplementados/EjemploAlmacenamientoArchivos.ino`
+
 ### Simulaciones Wokwi
-- Simulación MPU6050: https://wokwi.com/projects/457896092507526145
-- Simulación Relé: https://wokwi.com/projects/457750225146596353
-- Simulación Generador de Señales: https://wokwi.com/projects/457748072203684865
+- Simulación MPU6050: https://wokwi.com/projects/457896092507526145 `Evidencias/Montaje2.jpeg`
+- Simulación Relé: https://wokwi.com/projects/457750225146596353 `Evidencias/Montaje2.jpeg`
+- Simulación Generador de Señales: https://wokwi.com/projects/457748072203684865 `Generador de Señales`
   
   
   
